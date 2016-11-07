@@ -10,3 +10,11 @@ In this Python notebook we:
 - Plot location of tweets
  
 Please find above mentioned Ipython Notebook in the repository (it opens in Github).
+
+
+References:
+
+https://gist.github.com/konrad/d6f0ab643b2e4407d5d6
+http://www.bogotobogo.com/python/MongoDB_PyMongo/python_MongoDB_pyMongo_tutorial_Range_Queries_Counting_Indexing.php
+http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+http://sebastianraschka.com/Articles/2014_twitter_wordcloud.html
